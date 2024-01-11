@@ -1,1 +1,1 @@
-some source codes from https://www.udemy.com/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/
+some examples from https://www.udemy.com/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/
